@@ -1,0 +1,10 @@
+/*
+ * #fapp is the default id of the application container in the DOM
+ *
+ * use #fapp to namespace your CSS code to avoid overriding any styles.
+ */
+#pfx {
+	font-family: 'Bubblegum Sans', cursive;
+}
+
+#pfx h1.demo { color:red; }
